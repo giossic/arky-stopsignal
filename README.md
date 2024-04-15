@@ -40,11 +40,11 @@ gcc (for Mac users) can be installed by running this on commad line:
 
 ## Download arky-stopsignal-main folder.
 	
- 	$  git clone https://github.com/CoAxLab/CBGTPy.git
+ 	$ [ git clone https://github.com/giossic/arky-stopsignal.git
 
  * Change the directory:
 
-		$ cd CBGTPy
+  		$ cd arky-stopsignal
   	
 
 ## Create a conda environment by typing the following on the command line. Choose an environment name, e.g. cbgtpy_env.
@@ -103,10 +103,8 @@ Some basic benchmarking for the three options - (a) no multiprocessing (b) with 
 
 
 
-## From the shell prompt, start jupyter notebooks. There are three example notebooks provided which can be executed from the jupyter notebook environment.
-* network_simulation-n-choice.ipynb (Runs a n-choice task)
-* network_simulation-stop-signal.ipynb (Runs a stop-signal task)
-* network_simulation-n-choice-optostim.ipynb (Shows an example of optogenetic stimulation during a n-choice task)
+## From the shell prompt, start jupyter notebooks. There is an example notebook that can be executed from the jupyter notebook environment.
+* network_simulation-stop-signal.ipynb
  
 		$ jupyter-notebook 
  	
