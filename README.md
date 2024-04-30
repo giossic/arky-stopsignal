@@ -16,3 +16,4 @@ Any additional data and code supporting the findings of this study are available
 - seaborn
 - statannot
 - jupyter notebook
+- scipy
