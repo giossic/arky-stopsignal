@@ -9,7 +9,7 @@ Reactive inhibitory control is crucial for survival. Traditionally, this control
 The network codebase used in this study can be found on our GitHub repository and accessed at https://github.com/CoAxLab/CBGTPy/blob/main. Detailed installation instructions and a comprehensive list of implemented functions can be found in the README.txt file within the repository. All datasets generated and analyzed during this research, along with a demonstration demo, are openly available on Kilthub at XXX. 
 Any additional data and code supporting the findings of this study are available from the corresponding author upon reasonable request.
 
-#### Required packages: 
+#### Required packages: 
 - numpy
 - pandas
 - matplotlib
